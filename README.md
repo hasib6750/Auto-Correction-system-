@@ -26,7 +26,3 @@ This repository contains a Python-based spell checker that leverages edit distan
 - Optimize edit distance generation for performance.
 
 Feel free to clone, modify, and contribute to improve this spell-checking tool!
-
----
-
-Would you like any specific details or sections added to this description?
